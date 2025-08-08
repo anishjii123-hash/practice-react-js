@@ -1,0 +1,10 @@
+.app{
+    display: flex;
+}
+     
+.cointainer{
+    width: 100%;
+}
+.side{
+    min-height: 800px;
+} 
